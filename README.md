@@ -21,3 +21,9 @@
 ```
 DamageInformer2.rar распаковать по пути *Ваш путь к ГТА*/moonloader/
 ```
+## Зависимости:
+```
+* samp.Lua (samp.events)
+* inicfg
+* vkeys
+```
